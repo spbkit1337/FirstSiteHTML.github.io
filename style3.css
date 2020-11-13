@@ -1,0 +1,37 @@
+#kiber {
+	
+	font-size:30px;
+	padding:20px;
+	
+}
+header{
+width: 99%;
+background-color:black;
+border-radius:9px;
+
+height: 60px;
+
+
+
+}
+body {
+	
+
+ background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+background-size: 100%;
+background-size:cover;
+}
+.aa {
+	background-color:black;
+	color:white;
+
+	border-radius:7px;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#kek {
+	padding:10px;
+	
+}
